@@ -1,6 +1,6 @@
 # LED 물결  
 
-![img](https://projects.arduinocontent.cc/cover-images/74121398-c43c-4b35-9b59-1224f73f10e0.blob)
+![img](/img/74121398-c43c-4b35-9b59-1224f73f10e0.blob)
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://youtu.be/E6wkvTG2Ofs?si=k_IFc8MM8aGpZE7J)
 
